@@ -1,0 +1,14 @@
+layout_spectrum: 0.07994155585765839
+typography_spectrum: 0.5680162596981972
+color:
+  brandStrength: 0.21385411266237497
+  lightness: 0.9065485855098814
+  saturation: 0.97352857561782
+  rhythmicContrast: 0.9231897322461009
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: future instruments
